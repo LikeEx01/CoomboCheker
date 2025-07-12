@@ -10,7 +10,7 @@
 
 ---
 
-![Preview](https://i.ibb.co/QbKz1r3/combo-checker-preview.png)
+![Preview](https://e.top4top.io/p_3480rzkn83.jpg)
 
 ---
 
