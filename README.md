@@ -128,7 +128,9 @@ Proyek ini menggunakan [MIT License](https://opensource.org/licenses/MIT)
 ---
 
 ## Kontak
+
 - GitHub: [LikeEx01](https://github.com/LikeEx01)
+- Telegram: [LikeEx01](https://t.me/usernamee13371)
 
 ---
 
