@@ -132,7 +132,10 @@ Proyek ini menggunakan [MIT License](https://opensource.org/licenses/MIT)
 
 ---
 
-## Dapatkan Update Terbaru
-📢 Ikuti channel WhatsApp untuk info update, tools baru, dan diskusi komunitas:
+## 🔔 Bergabung di Saluran WhatsApp
 
-👉 https://whatsapp.com/channel/0029VaudLHc7YSd9S9c9800c
+Untuk update, pengumuman, dan informasi lainnya, silakan bergabung di saluran WhatsApp resmi kami:
+
+👉 [𝐍𝐨𝐜𝐭𝐮𝐫𝐧𝐚𝐥𝐁𝐲𝐭𝐞𝐬](https://whatsapp.com/channel/0029VaudLHc7YSd9S9c9800c)
+
+---
