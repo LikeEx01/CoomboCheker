@@ -1,4 +1,4 @@
-# Coombo Cheker 
+# Coombo Cheker 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -41,6 +41,8 @@ Tool ini secara otomatis mendeteksi port umum dan path login yang digunakan pane
 | `SucesWhm.txt`       | Login sukses ke WHM                              |
 | `SucesWebmail.txt`   | Login sukses ke Webmail                          |
 | `WhmA2F.txt`         | Login memerlukan autentikasi dua langkah (2FA)   |
+| `AllSuccess.txt`     | Gabungan semua login sukses                      |
+| `Unknown.txt`        | Login sukses ke panel tak teridentifikasi        |
 
 ---
 
@@ -127,4 +129,10 @@ Proyek ini menggunakan [MIT License](https://opensource.org/licenses/MIT)
 
 ## Kontak
 - GitHub: [LikeEx01](https://github.com/LikeEx01)
-- Telegram: [LikeEx01](https://t.me/usernamee1337)
+
+---
+
+## Dapatkan Update Terbaru
+📢 Ikuti channel WhatsApp untuk info update, tools baru, dan diskusi komunitas:
+
+👉 https://whatsapp.com/channel/0029VaudLHc7YSd9S9c9800c
