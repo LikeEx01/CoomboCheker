@@ -54,7 +54,7 @@ pkg update -y
 pkg upgrade -y
 pkg install python git -y
 pip install requests urllib3 colorama
-git clone https://github.com/LikeEx01/ComboChecker.git
+git clone https://github.com/LikeEx01/CoomboCheker.git
 cd ComboChecker
 python ComboChecker.py
 ```
@@ -66,7 +66,7 @@ python ComboChecker.py
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python3 python3-pip -y
 pip3 install requests urllib3 colorama
-git clone https://github.com/LikeEx01/ComboChecker.git
+git clone https://github.com/LikeEx01/CoomboCheker.git
 cd ComboChecker
 python3 ComboChecker.py
 ```
@@ -78,7 +78,7 @@ python3 ComboChecker.py
 2. Buka **CMD** atau **PowerShell**, lalu jalankan:
 ```bash
 pip install requests urllib3 colorama
-git clone https://github.com/LikeEx01/ComboChecker.git
+git clone https://github.com/LikeEx01/CoomboCheker.git
 cd ComboChecker
 python ComboChecker.py
 ```
